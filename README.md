@@ -362,7 +362,7 @@ Blockchain-Based-Smart-Contract-Freelance-Escrow/
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/shubha229/Blockchain-Based-Smart-Contract-Freelance-Escrow
 cd Blockchain-Based-Smart-Contract-Freelance-Escrow
 ```
 
@@ -672,37 +672,19 @@ The project implements smart-contract-level validation such as:
 
 ---
 
-## 🎥 Screenshots & Demo
-
-Add your actual screenshots to the `screenshots/` directory.
+## 🎥 Screenshots 
 
 ### 🖥️ Client Dashboard
-
-`![Client Dashboard](screenshots/client-dashboard.png)`
+<img width="1919" height="934" alt="Screenshot 2026-08-24 164350" src="https://github.com/user-attachments/assets/1365cda9-c954-46ef-9768-ccec9ba4ef27" />
 
 ### 👨‍💻 Freelancer Dashboard
-
-`![Freelancer Dashboard](screenshots/freelancer-dashboard.png)`
+<img width="1919" height="921" alt="Screenshot 2026-08-24 164203" src="https://github.com/user-attachments/assets/c14ea09d-b6d7-4067-acf9-c141dba03179" />
 
 ### ⚖️ Arbitrator Dashboard
-
-`![Arbitrator Dashboard](screenshots/arbitrator-dashboard.png)`
+<img width="1916" height="1005" alt="Screenshot 2026-08-24 165828" src="https://github.com/user-attachments/assets/b08dd131-4c31-46ad-b0e0-4604d4a6d81a" />
 
 ### 💰 Escrow Funding
-
-`![Escrow Funding](screenshots/escrow-funding.png)`
-
-### ⚖️ Dispute Resolution
-
-`![Dispute Resolution](screenshots/dispute-resolution.png)`
-
-### 🧪 Hardhat Tests
-
-`![Hardhat Tests](screenshots/hardhat-tests.png)`
-
-### 🎬 Demo Video
-
-▶️ **Watch Project Demo:** `<YOUR-DEMO-VIDEO-LINK>`
+<img width="494" height="628" alt="Screenshot 2026-08-24 171259" src="https://github.com/user-attachments/assets/83f85798-b552-4789-b02c-ae914b175209" />
 
 ---
 
@@ -723,90 +705,14 @@ Add your actual screenshots to the `screenshots/` directory.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome.
-
-### 1. Fork the Repository
-
-Click **Fork** on GitHub.
-
-### 2. Clone Your Fork
-
-```bash
-git clone <YOUR-FORK-URL>
-```
-
-### 3. Create a Branch
-
-```bash
-git checkout -b feature/your-feature
-```
-
-### 4. Make Your Changes
-
-Implement your feature or improvement.
-
-### 5. Test Your Changes
-
-```bash
-npx hardhat test
-```
-
-For frontend changes:
-
-```bash
-cd frontend
-npm run dev
-```
-
-### 6. Commit Your Changes
-
-```bash
-git add .
-git commit -m "Add your feature"
-```
-
-### 7. Push Your Branch
-
-```bash
-git push origin feature/your-feature
-```
-
-### 8. Create a Pull Request
-
-Open a Pull Request on GitHub describing your changes.
-
----
-
-## 📋 Contribution Guidelines
-
-When contributing:
-
-- Keep smart contract logic clear and readable.
-- Test smart contract changes before submitting.
-- Avoid committing private keys or secrets.
-- Follow consistent naming conventions.
-- Keep frontend components organized.
-- Update documentation when adding major functionality.
-- Include screenshots where useful.
-- Explain the purpose of significant changes.
-
----
-
 ## 🚀 Future Improvements
 
-- 🌐 Public Ethereum testnet deployment
-- 🪙 Stablecoin payment support
-- 📦 IPFS-based work submission
 - 🏭 Multiple escrow contract support
 - ⚖️ Multiple arbitrators
 - 🗳️ DAO-based dispute resolution
 - 🔔 Notification system
-- 📊 Advanced project analytics
 - 📱 Improved mobile responsiveness
 - 🔐 Professional smart contract security audit
-- 🔄 Automated deadline-based settlement
 
 ---
 
@@ -841,7 +747,6 @@ This project provided practical experience with:
 This project is primarily intended for **educational and demonstration purposes**.
 
 Current limitations:
-
 - Uses a local blockchain for development.
 - Does not represent a production freelance marketplace.
 - No production KYC/AML system is implemented.
@@ -856,20 +761,6 @@ Current limitations:
 
 This project is currently provided for **educational purposes**.
 
-### MIT License
-
-```text
-MIT License
-
-Copyright (c) 2026 Shubhashree Nayak
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files, to deal in the Software
-without restriction, including without limitation the rights to use, copy,
-modify, merge, publish, distribute, sublicense, and/or sell copies of the
-Software, subject to the conditions of the MIT License.
-```
-
 ---
 
 ## 📞 Contact
@@ -879,37 +770,10 @@ Software, subject to the conditions of the MIT License.
 **Shubhashree Nayak**
 
 ### 🐙 GitHub
-
-`<YOUR-GITHUB-PROFILE-LINK>`
+https://github.com/shubha229
 
 ### 💼 LinkedIn
-
-`<YOUR-LINKEDIN-PROFILE-LINK>`
-
-### 📧 Email
-
-`<YOUR-EMAIL-ADDRESS>`
-
-For questions, suggestions, or collaboration opportunities, feel free to connect.
-
----
-
-## 🙏 Acknowledgement
-
-A special thank you to **Umesh Sir** for his continuous guidance, encouragement, and valuable support throughout this project.
-
-Your guidance helped strengthen my understanding of:
-
-- Blockchain
-- Solidity
-- Smart Contracts
-- Web3 development
-- Hardhat
-- Ethers.js
-- React
-- Decentralized Applications
-
-Thank you, Umesh Sir, for motivating me to learn by building and continuously improve. 🙏🚀
+https://www.linkedin.com/in/shubhashree-b-nayak/
 
 ---
 
@@ -936,40 +800,8 @@ Thank you, Umesh Sir, for motivating me to learn by building and continuously im
 
 ---
 
-## 🔗 Project Links
-
-| Resource | Link |
-|---|---|
-| 🐙 GitHub Repository | `<YOUR-GITHUB-REPOSITORY-LINK>` |
-| 🎬 Demo Video | `<YOUR-DEMO-VIDEO-LINK>` |
-| 💼 LinkedIn Post | `<YOUR-LINKEDIN-POST-LINK>` |
-
----
-
-## 🚀 Final Summary
-
-The **Blockchain-Based Freelance Payment Escrow DApp** demonstrates how smart contracts can create a transparent and programmable payment workflow for freelance projects.
-
-### Core Technology Stack
-
-**React + Ethers.js + MetaMask + Solidity + Hardhat + Ethereum-Compatible Blockchain**
-
-### Main Workflow
-
-**Create → Fund → Work → Submit → Approve → Pay**
-
-### Dispute Workflow
-
-**Dispute → Arbitrator Review → Resolve → Freelancer Payout + Client Refund**
-
-The project demonstrates a practical application of **Blockchain, Smart Contracts, Web3, decentralized escrow, milestone-based payments, and automated payment workflows**.
-
----
-
 <div align="center">
 
 ### ⭐ If you found this project useful, consider giving it a star!
-
-**Built with ❤️ using Blockchain & Web3**
 
 </div>
