@@ -162,25 +162,6 @@ This project uses a **programmable smart-contract escrow mechanism** to control 
 
 ---
 
-## 🏗️ System Architecture
-
-```text
-Client
-  │
-  ▼
-React Frontend
-  │
-  ▼
-Ethers.js
-  │
-  ▼
-FreelanceEscrow.sol
-  │
-  ├──────────────► Freelancer
-  │
-  └──────────────► Arbitrator
-```
-
 ### Architecture Responsibilities
 
 | Layer | Technology | Purpose |
