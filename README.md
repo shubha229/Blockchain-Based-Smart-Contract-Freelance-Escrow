@@ -2,12 +2,6 @@
 
 > **A decentralized escrow platform for secure, milestone-based freelance payments using blockchain smart contracts.**
 
-[![Solidity](https://img.shields.io/badge/Solidity-0.8.x-363636?logo=solidity)](https://soliditylang.org/)
-[![Hardhat](https://img.shields.io/badge/Hardhat-Development-yellow?logo=hardhat)](https://hardhat.org/)
-[![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)](https://react.dev/)
-[![Ethers.js](https://img.shields.io/badge/Ethers.js-Web3-2535A0)](https://ethers.org/)
-[![MetaMask](https://img.shields.io/badge/MetaMask-Wallet-E2761B?logo=metamask)](https://metamask.io/)
-
 ---
 
 ## 📖 Description
